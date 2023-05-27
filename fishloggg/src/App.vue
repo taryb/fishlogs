@@ -16,7 +16,7 @@
   </v-app>
 </template>
 
-<script lang ="ts">
+<script lang="ts">
   export default {
     data: () => ({ drawer: null }),
   }
